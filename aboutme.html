@@ -13,5 +13,11 @@
             <a href="signin.html">Sign Up</a>
         </nav>
         <p>I am just a normal guy who is interested in IT.</p>
-        <img src="picture/mypic.jpg" alt="My pic" width=26% lenght=26%/>
+        <a onclick="Hello()"><img src="picture/mypic.jpg" width="25%" lenght="25%"></a>
+        <script>
+            function Hello() { 
+              document.getElementById("demo").innerHTML = "Hello!";
+            }
+            </script>
+        <p id="demo"></p>
     </body>
