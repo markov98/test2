@@ -14,10 +14,19 @@ a {
 }
 a:hover {
     background-color: turquoise;
-    color: black
+    color: black;
 }
 
-form {
-    border: 3px solid #f1f1f1;
-  }
+button {
+    background-color: black;
+    color: turquoise;
+    padding: 10px 20px;
+    margin: 6px 0;
+    cursor: pointer;
+    border-color: turquoise;
+}
 
+button:hover {
+    background-color: turquoise;
+    color: black;
+}

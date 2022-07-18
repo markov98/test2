@@ -12,7 +12,7 @@
             <a href="index.html">Home</a> |
             <a href="aboutme.html">About Me</a> |
             Log In |
-            <a href="signin.html">Sign Up</a>
+            <a href="signin.php">Sign Up</a>
           </nav>
       
      </br>
